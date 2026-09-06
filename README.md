@@ -84,7 +84,7 @@ Nandini-GIS-Solutions/
 ├── js/
 │   └── script.js
 │
-├── screenshots/
+├
 │
 ├── index.html
 ├── about.html
